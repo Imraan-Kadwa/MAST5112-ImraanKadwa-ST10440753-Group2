@@ -1,4 +1,4 @@
-Updates for Part 2 of the Food Feod App
+Updates for Part 2 of the Food Feod App.
 Enhanced Navigation:
 Implemented React Navigation to improve user flow between different screens.
 Form Validations:
