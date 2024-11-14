@@ -1,4 +1,5 @@
 Updates for Part 2 of the Food Feod App.
+
 Enhanced Navigation:
 Implemented React Navigation to improve user flow between different screens.
 Form Validations:
@@ -10,3 +11,5 @@ Improved layout for better visual hierarchy and easier readability.
 Pricing Analytics:
 Added a real-time average price calculation displayed on the home screen.
 Created logic for calculating averages with real-time updates when items are added or removed.
+
+Youtube Video link: https://youtu.be/1Lt4SO-DJlM
